@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div-menu{
+    width: 100%;
+    height: 90px;
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 25px;
+}
+
+.div-central{
+    width: 100%;
+    height: 700px;
+    background-image: url(../Desafio/img/cama.jpg);
+    text-align: center;
+    color: blueviolet;
+    font-size: x-large;
+}
+
+.div-central h1 {
+    padding-top: 40px;
+}
+
+.div-central img{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: -57px;
+    left: 210px;
+}
+
+.div-cor{
+    color: palevioletred;
+}
+
+.div-estilop{
+    color: black;
+    padding-top:20px;
+}
+
+.div-esp{
+    padding-top: 30px;
+}
+
+.div-form{
+    width: 30%;
+    background-color: black;
+    height: 750px;
+    margin: 0 auto;
+    position: relative;
+    top: -100px;
+    color: grey;
+}
+
+.div-form-elem{
+    text-align: center;
+}
+
+.div-form p{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    text-align: left;
+    padding-left: 15px;
+}
+
+.div-form-input form input , .div-confirm-form input , .div-confirm-form-botao input{
+    width: 95%;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+}
+
+.div-confirm-form-botao input[type="button"]{
+    background-color: deeppink;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 15px;
+
+}
+
+.div-checbox input {
+    display: block;
+    margin-left: 15px;
+    margin-top: 25px;
+    
+}
+
+.div-checbox div {
+    position: relative;
+    left: -185px;
+    top: -24px;
+    float: right;
+    padding-top: -5px;
+}
+
+.div-cent .div-estilop p{
+    text-align: center;
+    padding-top: 5px;
+    position: relative;
+    top: 20px;
+}
+
+.div-rodape{
+    width: 100%;
+    height: 98px;
+    background-color: black;
+    text-align: center;
+    padding: 25px;
+    color: white;
+    position: relative;
+    top: -500px;
+}
+
+.div-container{
+    width: 350px;
+    height: 300px;
+    position: relative;
+    top: -700px;
+    left: 80px;
+}
+
+.div-container .div-img {
+    width: 50px;
+    height: 50px;
+}
+
+.div-container .div-img img{
+    width: 100%;
+    margin: 10px
+}
+
+.div-container .div-img2{
+    margin-top: 90px;
+}
+
+.div-container .div-text2{
+    position: relative;
+    top:-190px;
+    left: 66px;
+    width: 230px;
+}
+
+.div-container .div-text2 .div-text-3{
+    position: relative;
+}
+
+.div-container .div-text-4{
+    position: relative;
+    top: -160px;
+}
+
+.div-container2{
+    position: relative;
+    position: relative;
+    top: -990px;
+    left: 900px;
+    width: 800px;
+}
+
+.div-container .div-text-5{
+    position: relative;
+    top: 15px;
+    left: -25px;
+    margin: 25px;
+}
+
